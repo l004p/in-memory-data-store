@@ -1,0 +1,7 @@
+*
+.DS_Store
+!*.h
+!*.c
+!*.cpp
+!makefile
+!.gitignore
